@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
-</p>
 
 <h3>Why, hello there.</h3>
 
