@@ -1,7 +1,7 @@
 
 <h3 hello there.</h3>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammed-jishin-jamal-t-c-p" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muhammed-jishin-jamal-t-c-p?trk=profile-badge">Muhammed Jishin Jamal T.C.P</a></div>
+
               
 
 Here's my `Manifest.xml`:
