@@ -58,7 +58,7 @@ I'm always interested in meeting new people, so feel free to reach me
 </p>
 
 <p align="left">
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjishin&theme=blue-green />
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjishin&theme=blue-white />
   <img src="https://github-readme-stats.vercel.app/api?username=mohdjishin&show_icons=true"  /> 
 
 
