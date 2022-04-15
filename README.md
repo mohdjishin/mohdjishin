@@ -1,18 +1,18 @@
 
-<h3>Why, hello there.</h3>
+<h3 hello there.</h3>
 
-Here's my `Manifest.toml`:
+Here's my `Manifest.xml`:
 
 ```toml
 
 [personal]
 name = 'Muhammed Jishin Jamal T.C.P'
 city = 'Kerala, India'
-email = 'mohdjishin666 "at" gmail.com'
+email = 'mohdjishin666 'at' gmail.com'
 
 [professional]
 currently-employed = False
-title = ["Ethical hacker, "Web dev"]
+title = ['Ethical hacker', 'Web dev']
 
 
 [bio]
@@ -31,11 +31,11 @@ programming-languages = [
 ```
 
 
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+I'm always interested in meeting new people, so feel free to reach me 
 
 <p align="center">
   
-  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+ 
 </p>
 
 <p align="left">
