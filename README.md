@@ -11,7 +11,7 @@ city = 'Kerala, India'
 email = 'mohdjishin666 at gmail.com'
 
 [professional]
-currently-employed = False
+currently-employed = false
 title = ['Ethical hacker', 'Web dev']
 
 
