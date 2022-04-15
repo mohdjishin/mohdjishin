@@ -19,7 +19,8 @@ title = ['Ethical hacker', 'Web dev']
 interests = [
   'linux',
   'open-source',
-   'Pentesting'
+   'Pentesting',
+    'Info-sec'
 ]
 programming-languages = [
   'c/cpp',
