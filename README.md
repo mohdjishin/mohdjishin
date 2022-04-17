@@ -12,7 +12,7 @@ Here's my `Manifest.xml`:
 [personal]
 name = 'Muhammed Jishin Jamal T.C.P'
 city = 'Kerala, India'
-email = 'mohdjishin666 at gmail.com'
+email = [ 'mohdjishin666', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = false
