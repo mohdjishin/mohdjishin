@@ -32,7 +32,6 @@ interests = [
 programming-languages = [
   'c/cpp',
   'python',
-  'Dart',
   'Go'
 ]
 
