@@ -23,7 +23,6 @@ title = ['Backend-dev', 'Ethical hacker', ' Application Security',
 
 [bio]
 interests = [
-
   'linux',
   'open-source',
    'Pentesting',
