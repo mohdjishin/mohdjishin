@@ -16,14 +16,14 @@ email = [ 'mohdjishin666', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = false
-title = ['Ethical hacker', ' Application Security', 
+title = ['Backend-dev', 'Ethical hacker', ' Application Security', 
           'Network Security', 'Penetration Tester',
-          'Vulnerability Assessment and Penetration Testing', 
-                'Web dev']
+          'Vulnerability Assessment and Penetration Testing']
 
 
 [bio]
 interests = [
+
   'linux',
   'open-source',
    'Pentesting',
@@ -36,7 +36,7 @@ programming-languages = [
 ]
 
 database = [
-'MySQL',
+'PostgreSQL',
 'MongoDb'
 ]
 
