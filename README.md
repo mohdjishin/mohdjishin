@@ -29,15 +29,15 @@ interests = [
     'Info-sec'
 ]
 programming-languages = [
-   'Go'
+   'Go',
    'c/cpp',
-   'python',
+   'python'
  
 ]
 
 technologies =[
-  'CI/CD'
-  'Docker'
+  'CI/CD',
+  'Docker',
   'k8s'
 ]
 
