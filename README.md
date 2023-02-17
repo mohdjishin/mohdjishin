@@ -28,12 +28,17 @@ interests = [
     'Pentesting',
     'Info-sec'
 ]
+
+
+
 programming-languages = [
    'Go',
    'c/cpp',
    'python'
  
 ]
+
+
 
 technologies =[
   'CI/CD',
