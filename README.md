@@ -29,7 +29,7 @@ interests = [
     'Info-sec'
 ]
 programming-languages = [
- <span style="color:red">  'Go'</span>,
+   'Go',
    'c/cpp',
    'python'
  
@@ -66,8 +66,8 @@ I'm always interested in meeting new people, so feel free to reach me
 
 <p align="left">
 
-
+<!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=mohdjishin&show_icons=true"  /> 
 
-
+ -->
 
