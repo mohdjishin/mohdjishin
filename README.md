@@ -29,7 +29,7 @@ interests = [
     'Info-sec'
 ]
 programming-languages = [
- <span style="color:red">  'Go',</span>
+ <span style="color:red">  'Go'</span>,
    'c/cpp',
    'python'
  
