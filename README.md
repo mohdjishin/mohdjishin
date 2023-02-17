@@ -23,20 +23,29 @@ title = ['Backend-dev', 'Ethical hacker', ' Application Security',
 
 [bio]
 interests = [
-  'linux',
-  'open-source',
-   'Pentesting',
+    'linux',
+    'open-source',
+    'Pentesting',
     'Info-sec'
 ]
 programming-languages = [
-  'c/cpp',
-  'python',
-  'Go'
+ <span style="color:yellow">  'Go'</span>
+   'c/cpp',
+   'python',
+ 
 ]
 
+technologies =[
+  'CI/CD'
+  'Docker'
+  'k8s'
+]
+
+
+
 database = [
-'PostgreSQL',
-'MongoDb'
+  'PostgreSQL',
+  'MongoDb'
 ]
 
 ```
