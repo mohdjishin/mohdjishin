@@ -29,8 +29,6 @@ interests = [
     'Info-sec'
 ]
 
-
-
 programming-languages = [
    'Go',
    'c/cpp',
@@ -38,15 +36,11 @@ programming-languages = [
  
 ]
 
-
-
 technologies =[
   'CI/CD',
   'Docker',
   'k8s'
 ]
-
-
 
 database = [
   'PostgreSQL',
