@@ -15,7 +15,7 @@ Location = 'Kerala, India'
 email = [ 'mohdjishin666', 'at', 'gmail.com' ]
 
 [professional]
-currently-employed = false
+currently-employed = DevSecOps
 title = ['Backend-dev', 'Ethical hacker', ' Application Security', 
           'Network Security', 'Penetration Tester',
           'Vulnerability Assessment and Penetration Testing']
