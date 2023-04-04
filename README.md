@@ -39,6 +39,7 @@ programming-languages = [
 technologies =[
   'Git' ,
   'CI/CD',
+  'AWS'
   'Docker',
   'k8s'
 ]
