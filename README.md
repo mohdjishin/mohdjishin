@@ -52,9 +52,9 @@ database = [
 ```
 I'm always interested in meeting new people, so feel free to reach me on:
 
-<p align="left">
+<div>
   <a href="https://www.linkedin.com/in/muhammed-jishin-jamal-t-c-p-a398aa215">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Muhammed Jishin Jamal T.C.P's LinkedIn Profile" height="30" width="30">
   </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/mohdjishin.png" alt="TryHackMe" height="30" width="30">
-</p>
+</div>
