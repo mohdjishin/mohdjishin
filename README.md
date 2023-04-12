@@ -5,11 +5,13 @@
 
 <div style="background-color: #2d2d2d; padding: 20px;">
   <div style="background-color: #262626; padding: 10px;">
-    <p style="color: #ffffff; font-family: monospace;">$ ls -l</p>
+    <p style="color: #ffffff; font-family: monospace;">mohdjishin@mohdjishin:~$  ls -l</p>
     <p style="color: #ffffff; font-family: monospace;">total 8</p>
+     <p style="color: #ffffff; font-family: monospace;">-rw-r--r--  1 mohdjishin  mohdjishin    30 Apr 12 10:12 .</p>
+     <p style="color: #ffffff; font-family: monospace;">-rw-r--r--  1 mohdjishin  mohdjishin    30 Apr 12 10:12 ..</p>
     <p style="color: #ffffff; font-family: monospace;">-rw-r--r--  1 mohdjishin  mohdjishin    30 Apr 12 10:12 private.pem</p>
     <p style="color: #ffffff; font-family: monospace;">-rw-r--r--  1 mohdjishin  mohdjishin    40 Apr 12 10:13 Manifest.xml</p>
-      <p style="color: #ffffff; font-family: monospace;">$ subl Manifest.xml</p>
+      <p style="color: #ffffff; font-family: monospace;">mohdjishin@mohdjishin~$  subl Manifest.xml</p>
   </div>
 </div>              
 
