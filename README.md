@@ -28,7 +28,7 @@ technologies = [
   "Git",
   "gRPC",
   "Docker",
-  "Cryptography"
+  "Cryptography",
   "Kubernetes (k8s)",
   "Amazon Web Services (AWS)",
   "Continuous Integration and Continuous Deployment (CI/CD)",
