@@ -4,7 +4,7 @@ Here's my `Manifest.xml`:
 [personal]
 name = "Muhammed Jishin Jamal T.C.P"
 Location = "Kerala, India"
-email = "mohdjishin666@gmail.com"
+email = "jishinjamaltcp@gmail.com"
 
 [professional]
 currently-employed = "DevSecOps"
