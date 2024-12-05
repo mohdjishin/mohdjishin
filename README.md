@@ -38,9 +38,7 @@ database = [
   "MongoDb"
 ]
 
-additional = [
-  "Cross-border payments"
-]
+
 ```
 I'm always interested in meeting new people, so feel free to reach me on:
 
