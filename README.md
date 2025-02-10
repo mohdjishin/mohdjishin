@@ -3,25 +3,30 @@ Here's my `Manifest.xml`:
 ```toml
 [personal]
 name = "Muhammed Jishin Jamal T.C.P"
-Location = "Kerala, India"
-email = "jishinjamaltcp@gmail.com"
+location = "Kerala, India"
 
 [professional]
-currently-employed = "DevSecOps"
-title = "Software Engineer specializing in Backend Development, Application Security, Network Security, Penetration Testing, and Vulnerability Assessment"
+currently_employed = "DevSecOps/Software Engineer"
+title = """Software Engineer specializing in:
+- Backend Development
+- Application Security
+- Network Security
+- Penetration Testing
+- Vulnerability Assessment
+"""
 
 [bio]
 interests = [
-    "linux",
-    "open-source",
+    "Linux",
+    "Open-Source",
     "Penetration Testing",
     "Information Security"
 ]
 
-programming-languages = [
+programming_languages = [
    "Go",
-   "c",
-   "python"
+   "C",
+   "Python"
 ]
 
 technologies = [
@@ -29,21 +34,20 @@ technologies = [
   "gRPC",
   "Docker",
   "Cryptography",
-  "Kubernetes (k8s)",
+  "Kubernetes (K8s)",
   "Amazon Web Services (AWS)",
-  "Continuous Integration and Continuous Deployment (CI/CD)",
-]
-database = [
-  "PostgreSQL",
-  "MongoDb"
+  "Continuous Integration and Continuous Deployment (CI/CD)"
 ]
 
+databases = [
+  "PostgreSQL",
+  "MongoDB",
+  "ClickHouse"
+]
+
+[contacts]
+email = "jishinjamaltcp@gmail.com"
+linkedin = "https://www.linkedin.com/in/muhammed-jishin-jamal-t-c-p"
 
 ```
-I'm always interested in meeting new people, so feel free to reach me on:
 
-<div>
-  <a href="https://www.linkedin.com/in/muhammed-jishin-jamal-t-c-p-a398aa215">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Muhammed Jishin Jamal T.C.P's LinkedIn Profile" height="30" width="30">
-  </a>
-</div>
